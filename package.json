@@ -1,0 +1,31 @@
+{
+    "name": "vscode-povray-syntax",
+    "displayName": "POV-Ray Syntax Highlighting ",
+    "description": "Syntax highlighting for Persistence of Vision Ray Tracer (POV-Ray) files",
+    "icon": "icons/povray-logo.png",
+    "version": "0.0.1",
+    "publisher": "J. Max Wilson",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jmaxwilson/vscode-povray-syntax"
+    },
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "povray",
+            "aliases": ["povray", "POVRay", "pov-ray"],
+            "extensions": [".pov",".inc"]
+        }],
+        "grammars": [{
+            "language": "povray",
+            "scopeName": "source.povray",
+            "path": "./syntaxes/povray.tmLanguage.json"
+        }]
+    }
+}
