@@ -2,6 +2,8 @@
 
 Extension for [Visual Studio Code](https://code.visualstudio.com/) to add Syntax Highlighting for the [Persistence of Vision Raytracer](http://povray.org/).
 
+Can be installed in Visual Studio Code from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray-syntax).
+
 Adapted for Visual Studio Code from the [atom-language-povray](https://github.com/h-a-n-n-e-s/atom-language-povray) project that adds POV-Ray syntax highlighting to Atom.
 
 Logo by SharkD: https://commons.wikimedia.org/wiki/File:Povray_logo_sphere.png
