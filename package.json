@@ -3,7 +3,7 @@
     "displayName": "POV-Ray Syntax Highlighting ",
     "description": "Syntax highlighting for Persistence of Vision Ray Tracer (POV-Ray) files",
     "icon": "icons/povray-logo.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "jmaxwilson",
     "license": "MIT",
     "repository": {
