@@ -1,5 +1,10 @@
 # POV-Ray Syntax Highlighting for Visual Studio Code
 
+## DEPRECATED
+
+This extension has been deprecated and replaced by the [POV-Ray Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray).
+
+---
 Extension for [Visual Studio Code](https://code.visualstudio.com/) to add Syntax Highlighting for the [Persistence of Vision Raytracer](http://povray.org/).
 
 ![Screenshot of .pov file with syntax highlighting in VS Code](https://raw.githubusercontent.com/jmaxwilson/vscode-povray-syntax/master/screenshots/vs-code-povray-syntax.png)
